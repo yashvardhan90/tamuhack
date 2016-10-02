@@ -18,16 +18,16 @@ title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
 baseurl: "/tamuhack" # the subpath of your site
-url: "https://steveortiz.github.io"
-email: steve@ortizaggies.com
-github_username:  steveortiz
-linkedin_username: trustycoder
-twitter_username: trustycoder
+url: "https://yashvardhan90.github.io"
+email: yashvardhan@tamu.edu
+github_username:  yashvardhan90
+linkedin_username: yashvardhansharma
+twitter_username: yashvardhan90
 {% endhighlight %}
 
 That's it! You should now have a website of your own.
 
-https://`your github username`.github.io/tamuhack
+https://`your github username`.github.io/tamuhack/
 
 There's so much more you can do with GitHub Pages, so don't stop here.
 Explore the code in this project and start making it your own.
